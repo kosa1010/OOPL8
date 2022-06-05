@@ -72,7 +72,7 @@ Utwórz klasę abstrakcyjną `GeometricFigure`, zawierającą metodę abstrakcyj
 
 Utwórz 15-elementową tablicę przechowującą różne figury geometryczne. Przejdź tablicę przy użyciu pętli `while` i wywołaj dla każdego elementu tablicy metodę toString(). Przeanalizuj wyświetlone wyniki i opisz (komentarz).
 
-###### Opracował dr inż. Wojciech Kozioł
+###### Na podstawie opracowania dr inż. Wojciecha Kozioła
 
 ###### Źródła
 
